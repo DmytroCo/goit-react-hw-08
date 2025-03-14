@@ -1,0 +1,10 @@
+.div {
+    display: flex;
+    gap: 20px;
+    font-size: 2vw;
+}
+.button {
+    margin: 0 auto;
+    font-size: 1vw;
+    height: 50px;
+}
